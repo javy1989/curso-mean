@@ -1,0 +1,32 @@
+{
+  "name": "curso-mean",
+  "version": "1.0.0",
+  "description": "proyecto de API-rest con nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.1",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.15.2",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.17.1",
+    "mongoose": "^4.8.6",
+    "mongoose-pagination": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javy1989/curso-mean.git"
+  },
+  "author": "ricardo bravo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javy1989/curso-mean/issues"
+  },
+  "homepage": "https://github.com/javy1989/curso-mean#readme"
+}
